@@ -1,11 +1,18 @@
 # Hello there 👋 Arpit Here
 
-![](https://komarev.com/ghpvc/?username=arpitBhalla)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arpitBhalla.arpitBhalla) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### 📫 Reach me on
+<a href="https://linkedin.com/in/arpitBhalla">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/im_arpitBhalla">
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/6682039/arpit-bhalla">
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
 
 
 ### About Me
@@ -75,11 +82,9 @@ arpitBhalla.introduceMe();
 <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 
 ## &#x1f4c8; GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arpitbhalla&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhalla&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arpitbhalla&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhalla&hide=TeX&layout=compact&theme=nord)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpitBhalla&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=arpitBhalla&theme=nord&column=7)
