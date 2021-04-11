@@ -14,6 +14,9 @@
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
 
+<p align="center">
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=arpitbhalla&theme=dark&hide_border=true'/>
+</p>
 
 ### About Me
 
