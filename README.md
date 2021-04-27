@@ -55,7 +55,7 @@ arpitBhalla.introduceMe();
 
 ```
 
-<!--
+
 ## 🔧 Technologies & Tools
 
 
@@ -71,4 +71,4 @@ arpitBhalla.introduceMe();
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arpitBhalla&theme=nord&column=7)
--->
+
