@@ -19,11 +19,6 @@
 </p>
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 <!--
 
 ### About Me
@@ -80,3 +75,13 @@ arpitBhalla.introduceMe();
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=arpitBhalla&theme=nord&column=7)
 
+-->
+
+
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
