@@ -18,6 +18,14 @@
     <img src='https://github-readme-streak-stats.herokuapp.com?user=arpitbhalla&theme=dark&hide_border=true'/>
 </p>
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+<!--
+
 ### About Me
 
 ```javascript
