@@ -1,8 +1,6 @@
-# Hello there 👋 Arpit Here
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arpitBhalla.arpitBhalla) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-### 📫 Reach me on
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/55053424/147088792-c7d0ae3c-6ded-4b02-a7de-133a0d754ac9.png'/>
+</p>
 
 <p align='center'>
     <a href="https://linkedin.com/in/arpitBhalla">
