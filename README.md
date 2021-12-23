@@ -1,19 +1,24 @@
-# Hello there 👋 Arpit Here
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arpitBhalla.arpitBhalla) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-### 📫 Reach me on
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/55053424/147093372-e6eecac7-5336-4e81-ab7c-5fd446420521.png'/>
+</p>
 
 <p align='center'>
+     <a href="https://linkedin.com/in/arpitBhalla">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/Open Collective-%23161b22.svg?&style=for-the-badge&logo=opencollective&logoColor=%237FADF2"/>
+    </a>
+     <a href="https://linkedin.com/in/arpitBhalla">
+        <img alt="buymeacoffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23161b22.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00"/>
+    </a>
+     <a href="https://twitter.com/arpitBhalla_">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%23161b22.svg?&style=for-the-badge&logo=Twitter&logoColor=%231DA1F2"/>
+    </a>
     <a href="https://linkedin.com/in/arpitBhalla">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%23161b22.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5"/>
     </a>
-    <a href="https://twitter.com/arpitBhalla_">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <!--  <a href="https://stackoverflow.com/users/6682039/arpit-bhalla">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-%23161b22?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
     </a>
-    <a href="https://stackoverflow.com/users/6682039/arpit-bhalla">
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-    </a>
+    -->
 </p>
 
 <table align='center'>
