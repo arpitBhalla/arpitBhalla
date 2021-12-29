@@ -3,10 +3,10 @@
 </p>
 
 <p align='center'>
-     <a href="https://linkedin.com/in/arpitBhalla">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/Open Collective-%23161b22.svg?&style=for-the-badge&logo=opencollective&logoColor=%237FADF2"/>
+     <a href="https://opencollective.com/arpitbhalla">
+        <img alt="opencollective" src="https://img.shields.io/badge/Open Collective-%23161b22.svg?&style=for-the-badge&logo=opencollective&logoColor=%237FADF2"/>
     </a>
-     <a href="https://linkedin.com/in/arpitBhalla">
+     <a href="https://www.buymeacoffee.com/arpitbhalla">
         <img alt="buymeacoffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23161b22.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00"/>
     </a>
      <a href="https://twitter.com/arpitBhalla_">
