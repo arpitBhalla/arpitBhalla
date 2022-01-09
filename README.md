@@ -1,7 +1,7 @@
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/55053424/148694587-f70578b3-f19c-4193-ab62-67a5e247cc73.png'/>
 </p>
-
+<br/>
 <p align='center'>
      <a href="https://opencollective.com/arpitbhalla">
         <img alt="opencollective" src="https://img.shields.io/badge/Open Collective-%23161b22.svg?&style=for-the-badge&logo=opencollective&logoColor=%237FADF2"/>
@@ -19,6 +19,7 @@
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-%23161b22?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
     </a>
     -->
+<br/>
 <br/>
 <img src='https://github-readme-stats.vercel.app/api?username=arpitbhalla&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     
