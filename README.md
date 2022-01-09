@@ -19,8 +19,12 @@
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-%23161b22?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
     </a>
     -->
+<br/>
+<img src='https://github-readme-stats.vercel.app/api?username=arpitbhalla&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
+    
 </p>
 
+<!--
 <table align='center'>
     <tr>
         <td><img src='https://github-readme-streak-stats.herokuapp.com?user=arpitbhalla&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
@@ -28,7 +32,7 @@
     </tr>
 </table>    
 
-<!--
+
 ### Skills
 <div style="display:flex;flex-direction:row">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
