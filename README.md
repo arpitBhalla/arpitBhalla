@@ -1,7 +1,10 @@
-<p align='center'>
+<!--<p align='center'>
 <img src='https://user-images.githubusercontent.com/55053424/148694587-f70578b3-f19c-4193-ab62-67a5e247cc73.png'/>
 </p>
-<br/>
+<br/>-->
+# Hey! 👋🏼 I'm Arpit
+
+Let's connect [Twitter](https://twitter.com/arpitBhalla), [Linkedin](https://linkedin.com/in/arpitBhalla) find some of my work below ⬇️
 <p align='center'>
      <!--
      <a href="https://opencollective.com/arpitbhalla">
@@ -9,10 +12,9 @@
     </a>
      <a href="https://www.buymeacoffee.com/arpitbhalla">
         <img alt="buymeacoffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23161b22.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00"/>
-    </a>-->
-     <a href="https://twitter.com/arpitBhalla_">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%23161b22.svg?&style=for-the-badge&logo=Twitter&logoColor=%231DA1F2"/>
     </a>
+     <a href="https://twitter.com/arpitBhalla_">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%23161b22.svg?&style=for-the-badge&logo=Twitter&logoColor=%231DA1F2"/></a> 
     <a href="https://linkedin.com/in/arpitBhalla">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%23161b22.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5"/>
     </a>
@@ -22,8 +24,9 @@
     -->
 <br/>
 <br/>
+     <!--
 <img src='https://github-readme-stats.vercel.app/api?username=arpitbhalla&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
-    
+    -->
 </p>
 
 <!--
